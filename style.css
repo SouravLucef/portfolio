@@ -75,6 +75,9 @@ section{
 .home-img{
     width: 35vw;
 }
+.home-img img {
+    filter: drop-shadow(10px 10px 20px aqua);
+}
 .home-content h3{
     font-size: 3.2rem;
     font-weight: 700;
@@ -155,7 +158,9 @@ span{
 .about-img {
     width: 35vw;
 }
-
+.about-img img {
+    filter: drop-shadow(10px 10px 20px aqua);
+}
 .about-content h1{
     font-size: 5.3rem;
     font-weight: 700;
@@ -209,6 +214,7 @@ span{
 }
 
 .skill-title:hover {
+    scale: 1.1;
     background: aqua;
     color: #323946;
     box-shadow: 0 0 1rem aqua;
