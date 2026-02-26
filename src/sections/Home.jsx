@@ -67,7 +67,7 @@ const Home = () => {
             <span className="text-sm">Follow me:</span>
 
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/SouravLucef"
               target="_blank"
               className="hover:text-teal-400 transition"
             >
@@ -75,7 +75,7 @@ const Home = () => {
             </a>
 
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/sourav-mondal-2a7802210/"
               target="_blank"
               className="hover:text-teal-400 transition"
             >

@@ -30,6 +30,7 @@ const skillsData = [
   { name: "Node.js", category: "Backend", icon: <Server size={28} /> },
   { name: "Flask", category: "Backend", icon: <Cpu size={28} /> },
   { name: "MySQL", category: "Backend", icon: <Database size={28} /> },
+  { name: "JavaScript", category: "Backend", icon: <Globe size={28} /> },
 
   // AI / ML
   { name: "Machine Learning", category: "AI/ML", icon: <Brain size={28} /> },

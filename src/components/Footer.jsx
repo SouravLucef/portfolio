@@ -66,7 +66,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/sourav-mondal-2a7802210/"
                 target="_blank"
                 rel="noreferrer"
                 className="p-3 rounded-xl bg-white/5 border border-white/10 
@@ -77,7 +77,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="mailto:your@email.com"
+                href="mailto:sm30122000@gmail.com"
                 className="p-3 rounded-xl bg-white/5 border border-white/10 
                            hover:border-teal-400 hover:shadow-[0_0_20px_rgba(20,184,166,0.4)]
                            transition"

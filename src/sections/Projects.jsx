@@ -19,11 +19,11 @@ const projects = [
     link: "https://github.com/SouravLucef/Smart-SpeakUp-Application",
   },
   {
-    title: "Fintech Dashboard",
+    title: "Portfolio WebPage",
     description:
-      "Financial analytics dashboard with real-time data visualization and portfolio management.",
-    tech: ["React", "TypeScript", "Node.js"],
-    image: "/project3.png",
+      "Made A Portfolio Webpage for a fellow friend",
+    tech: ["HTML","CSS","JavaScript"],
+    image: "/projects/project3.png",
     link: "#",
   },
   {
